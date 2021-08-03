@@ -39,10 +39,6 @@ In the first run, for more information, run the program as follows to display th
 python tcp2serial.py -h
 ```
 
-# More information about the program
-
-
-
 # Credits
 
 - Danial Keimasi
