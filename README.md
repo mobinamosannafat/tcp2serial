@@ -41,4 +41,4 @@ python tcp2serial.py -h
 
 # Credits
 
-- Danial Keimasi
+- Mobina Mosannafat
