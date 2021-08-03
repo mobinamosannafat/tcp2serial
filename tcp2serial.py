@@ -71,7 +71,7 @@ class Connection:
         #send the header
         self.socket.send("************************************************\r\n")
         self.socket.send("tcp2serial\r\n")
-        self.socket.send("http:for updates       \r\n")
+        self.socket.send("http:for updates   https://github.com/mobinamosannafat/tcp2serial.git    \r\n")
         self.socket.send("\r\n")
         self.socket.send("This program uses non-standard python libraries:\r\n")
         self.socket.send("   - pyserial by Chris Liechti\r\n")
